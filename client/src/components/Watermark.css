@@ -1,0 +1,13 @@
+.watermark-container {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 9999;
+  }
+  
+  .watermark-logo {
+    opacity: 0.8;
+    width: 150px; /* Defina o tamanho da logo de acordo com suas necessidades */
+    height: auto;
+  }
+  
